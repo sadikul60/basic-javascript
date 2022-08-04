@@ -23,3 +23,5 @@ const b = 8;
 const add = a + b;
 console.log(add);
 // Output: 20
+
+// variable done
